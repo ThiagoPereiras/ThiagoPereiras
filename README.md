@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThiagoPereiras
+- 👋 Hi, I’m @ThiagoPereira
 - Desenvolvedor Python
-- 🌱 Full Stack em andament
+- 🌱 Full Stack em andamento
 - 
 
 <!---
